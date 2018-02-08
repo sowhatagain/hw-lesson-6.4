@@ -1,4 +1,3 @@
-Задание: backpropagation для sigmoid
+Р—Р°РґР°РЅРёРµ: backpropagation РґР»СЏ sigmoid
 
-
-Решение: 004-classification.ipynb
+Р РµС€РµРЅРёРµ: 004-classification.ipynb
